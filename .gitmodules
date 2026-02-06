@@ -1,3 +1,6 @@
 [submodule "libDaisy"]
 	path = libDaisy
 	url = https://github.com/jaffco/libDaisy
+[submodule "Portaklon"]
+	path = Portaklon
+	url = https://github.com/jaffco/Portaklon
